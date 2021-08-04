@@ -14,6 +14,13 @@ Instant-django has a sample model and basic CRUD views.
 
 You can complete a simple CRUD WebApp with a few edits and commands.
 
+
+
+
+![ocean-4270251_1280](https://user-images.githubusercontent.com/55436678/128128032-f18ba970-2600-4cb3-a5dc-160e925e642f.jpg)
+
+
+
 ## Requirement
 
 ```
